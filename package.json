@@ -1,0 +1,15 @@
+{
+  "name": "paulitscript",
+  "version": "1.0.0",
+  "description": "proyectANDO",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: npno test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundito"
+  ],
+  "author": "Paulit",
+  "license": "ISC"
+}
